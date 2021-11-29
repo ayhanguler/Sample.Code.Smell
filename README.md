@@ -1,4 +1,4 @@
-# "Code Smell" Örneği
+# Code Smell
 
 Kod blokları gereğinden fazla uzunsa, fonksiyonlar çok fazla parametre alıyorsa, kod, çok fazla if, while, for gibi döngülerle karmaşık hale getirildiyse, kod
 sürdürülebilir olmaktan çıkmışsa, kodu anlayabilmek için tersine mühendislik gerekiyorsa, aynı işi yapan birden fazla method bulunuyorsa bu koda
